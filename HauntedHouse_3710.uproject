@@ -6,6 +6,14 @@
 	"Plugins": [
 		{
 			"Name": "FMODStudio",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosSolverPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
 			"Enabled": true
 		}
 	]
